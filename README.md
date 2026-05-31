@@ -125,3 +125,8 @@ This repository is part of a broader conceptual framework on Natural Complementa
 
 - [CO2-Is-Not-The-Only-Villain](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain) — Foundational thesis proposing that climate change requires multi-factor approaches that complement CO₂ reduction.
 - [CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative) — A speculative climate SF narrative exploring related themes through fiction.
+- [Center-Mist-Ultrasonic-Cooling-Fan-Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept) — Device-level UMC concept using center mist injection and spiral return structure.
+- [Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation) — AI-controlled urban mist cooling concept.
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — Modular DPC architecture combining OBS and UMC.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.

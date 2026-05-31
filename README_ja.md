@@ -125,3 +125,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 - [CO2-Is-Not-The-Only-Villain](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain) — CO₂削減を補完する多要因型の気候対応が必要であるという基礎的テーゼ。
 - [CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative) — 関連テーマを物語形式で探求する気候SFナラティブ。
+- [Center-Mist-Ultrasonic-Cooling-Fan-Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept) — 中央ミスト注入とスパイラル返水構造を用いる装置レベルのUMC構想。
+- [Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation) — AI制御型都市ミスト冷却構想。
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS×UMCによる海洋温度低減フレームワーク。
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — OBSとUMCを組み合わせたモジュール型DPC構想。
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
