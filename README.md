@@ -113,11 +113,11 @@ This concept, structure, translation, review, and documentation were developed t
 
 ## License
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-This document is released under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This document is released under the Creative Commons Attribution 4.0 International License.
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ## Related Works
 

@@ -113,11 +113,11 @@ Concept Originator: **Master**
 
 ## ライセンス
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-本ドキュメントは Creative Commons Attribution-ShareAlike 4.0 International License の下で公開される。
+本ドキュメントは Creative Commons Attribution 4.0 International License の下で公開される。
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ## 関連プロジェクト
 
