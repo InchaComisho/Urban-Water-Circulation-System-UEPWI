@@ -4,6 +4,8 @@
 
 > This repository presents a conceptual proposal and theoretical framework. It does not claim that UEPWI is a proven system, nor that it can definitively solve urban heat islands, dust, or pollen problems. Scientific modeling, pilot testing, public health assessment, infrastructure review, and governance design are required before any real-world implementation.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Overview
 
 The **Urban Eco-Pulsing Water Infrastructure (UEPWI)** is a conceptual framework grounded in the philosophy of **Natural Complementary Science**. It explores the hypothesis that restoring localized hydrological cycles—essentially re-establishing a city's "metabolic" functions—could provide an integrated, multi-faceted approach to several interconnected urban environmental challenges.
