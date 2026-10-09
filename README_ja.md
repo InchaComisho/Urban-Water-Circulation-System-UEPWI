@@ -78,15 +78,15 @@ UEPWIは、季節ごとの環境ストレスに適応する動的なシステム
 
 UEPWIの実装には重大な課題が伴います。主な制限事項としては、濾過が不十分な場合のレジオネラ菌などの水系病原体のリスク、すでに高温多湿な環境を過剰に加湿することによる体感温度悪化の可能性、高い初期費用と維持管理コスト、複雑な水利権のガバナンス、そして過密な都市部への後付け（レトロフィット）という工学的な困難さが挙げられます。
 
-詳細な内訳については、[docs/SAFETY_AND_LIMITATIONS.md](./docs/SAFETY_AND_LIMITATIONS.md) を参照してください。
+詳細な内訳については、[docs/SAFETY_AND_LIMITATIONS.md](./docs/SAFETY_AND_LIMITATIONS_ja.md) を参照してください。
 
 ## リポジトリの構成
 
 - [README.md](./README_ja.md) — 英語の概要。
 - [README_ja.md](./README_ja.md) — 日本語の概要。
-- [docs/TECHNICAL_CONCEPT.md](./docs/TECHNICAL_CONCEPT.md) — 技術概念、提案メカニズム、パイロット設計、測定指標。
-- [docs/SAFETY_AND_LIMITATIONS.md](./docs/SAFETY_AND_LIMITATIONS.md) — 安全上の注記、制限事項、実装課題。
-- [docs/SEO_AND_LINKING.md](./docs/SEO_AND_LINKING.md) — SEOメタデータとリポジトリ連携戦略。
+- [docs/TECHNICAL_CONCEPT.md](./docs/TECHNICAL_CONCEPT_ja.md) — 技術概念、提案メカニズム、パイロット設計、測定指標。
+- [docs/SAFETY_AND_LIMITATIONS.md](./docs/SAFETY_AND_LIMITATIONS_ja.md) — 安全上の注記、制限事項、実装課題。
+- [docs/SEO_AND_LINKING.md](./docs/SEO_AND_LINKING_ja.md) — SEOメタデータとリポジトリ連携戦略。
 
 ## キーワード
 
