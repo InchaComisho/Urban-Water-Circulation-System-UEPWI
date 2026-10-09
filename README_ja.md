@@ -1,6 +1,6 @@
 # 都市水循環システム (Urban Eco-Pulsing Water Infrastructure: UEPWI)
 
-> 英語版はこちら: [README.md](./README.md)
+> 英語版はこちら: [README.md](./README_ja.md)
 
 > 本リポジトリは概念的提案および理論的枠組みを提示するものであり、UEPWIが実証済みのシステムであること、またヒートアイランド、粉塵、花粉問題を確実に解決できることを主張するものではありません。実装には、科学的モデリング、実証実験、公衆衛生評価、インフラ適合性評価、ガバナンス設計が必要です。
 
@@ -82,7 +82,7 @@ UEPWIの実装には重大な課題が伴います。主な制限事項として
 
 ## リポジトリの構成
 
-- [README.md](./README.md) — 英語の概要。
+- [README.md](./README_ja.md) — 英語の概要。
 - [README_ja.md](./README_ja.md) — 日本語の概要。
 - [docs/TECHNICAL_CONCEPT.md](./docs/TECHNICAL_CONCEPT.md) — 技術概念、提案メカニズム、パイロット設計、測定指標。
 - [docs/SAFETY_AND_LIMITATIONS.md](./docs/SAFETY_AND_LIMITATIONS.md) — 安全上の注記、制限事項、実装課題。

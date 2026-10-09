@@ -1,5 +1,7 @@
 # Technical Concept: Urban Eco-Pulsing Water Infrastructure (UEPWI)
 
+[日本語版はこちら / Japanese version](TECHNICAL_CONCEPT_ja.md)
+
 > This repository presents a conceptual proposal and theoretical framework. It does not claim that UEPWI is a proven system, nor that it can definitively solve urban heat islands, dust, or pollen problems. Scientific modeling, pilot testing, public health assessment, infrastructure review, and governance design are required before any real-world implementation.
 
 ## 1. Introduction to the Conceptual Framework

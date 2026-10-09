@@ -1,5 +1,7 @@
 # Safety Notes, Limitations, and Implementation Challenges
 
+[日本語版はこちら / Japanese version](SAFETY_AND_LIMITATIONS_ja.md)
+
 > This repository presents a conceptual proposal and theoretical framework. It does not claim that UEPWI is a proven system, nor that it can definitively solve urban heat islands, dust, or pollen problems. Scientific modeling, pilot testing, public health assessment, infrastructure review, and governance design are required before any real-world implementation.
 
 The **Urban Eco-Pulsing Water Infrastructure (UEPWI)** is a conceptual proposal. Transitioning from a theoretical framework to practical implementation would require addressing significant engineering, public health, economic, and governance challenges. This document outlines the primary safety concerns and limitations associated with the proposed system.
